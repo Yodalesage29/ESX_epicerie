@@ -1,0 +1,3 @@
+LICENCE : 
+
+You can do what you want with this script however if you edit this script, you need to share with the esx_community !
