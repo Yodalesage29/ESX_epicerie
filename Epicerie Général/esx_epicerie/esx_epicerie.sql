@@ -2,10 +2,9 @@ INSERT INTO `addon_account` (name, label, shared) VALUES
   ('society_epicerie', 'Epicerie', 1)
 ;
 
-INSERT INTO `addon_inventory` (name, label, shared) VALUES
-  (epicerie, Epicerie, 1),
-  ('society_epicerie_reserve', 'Epicerie (réserve)', 1)
-;
+INSERT INTO `addon_inventory` (`name`, `label`, `shared`) VALUES
+('epicerie', 'Epicerie', 1),
+('society_epicerie_reserve', 'Epicerie (réserve)', 1);
 
 INSERT INTO `datastore` (name, label, shared) VALUES 
     ('society_epicerie', 'Epicerie', 1)
