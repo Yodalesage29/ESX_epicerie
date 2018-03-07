@@ -1,6 +1,6 @@
 -- Translated by Vanheden @ Github --
 
-Locales['fr'] = {
+Locales['sv'] = {
     -- Cloakroom
     ['cloakroom']                = 'Garderob',
     ['citizen_wear']             = 'Civil utstyrsel',
